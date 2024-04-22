@@ -53,3 +53,31 @@ h2{
 .celdas img{
     max-width: 100%;
 }
+
+.equipo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.proteccion{
+    width: 50%;
+    padding: 5% 5% 5% 5%;
+    
+    img{
+        max-width: 100%;
+    }
+}
+
+.municion{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.balas{
+    width: 33%;
+    padding: 1% 1% 1% 1%;
+
+    img{
+        max-width: 100%;
+    }
+}
